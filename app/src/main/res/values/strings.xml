@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera aplicación android</string>
+    <string name="edit_message">Captura un Mensage</string>
+    <string name="button_send">Enviar</string>
+    <string name="action_settings">Propiedades</string>
+    <string name="title_activity_main">Actividad Principal</string>
+    <string name="title_activity_display_message">My Message</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
